@@ -10,7 +10,7 @@
 I’m a **CS Student** at York and a **Software Engineer** with a strong interest in **Machine Learning, Data Science, and Software Engineering**.  
 I love exploring how code and data can come together to build intelligent, scalable, and impactful applications.  
 
-I enjoy experimenting with AI models, developing creative projects, and contributing to open-source — all while constantly learning and improving my craft.  
+I enjoy experimenting with AI models, developing creative projects, and contributing to open-source, all while constantly learning and improving my craft.  
 
 
 ## 🛠️ Tech Toolbox  
@@ -29,4 +29,4 @@ I enjoy experimenting with AI models, developing creative projects, and contribu
 
 ---
 
-✨ Always curious, always building — and excited to connect with fellow developers, innovators, and creators!  
+✨ Always curious, always building and excited to connect with fellow developers, innovators, and creators!  
